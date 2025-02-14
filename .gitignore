@@ -74,4 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 #Ignore Content folder. Might need undone
-Content/
+StarterContent/
