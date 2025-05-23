@@ -75,7 +75,6 @@ DerivedDataCache/*
 
 #Ignore Content folder. Might need undone
 StarterContent/
-Landscape/
 Fab/
 AnimStarterPack/
 Mannequin_UE4/
