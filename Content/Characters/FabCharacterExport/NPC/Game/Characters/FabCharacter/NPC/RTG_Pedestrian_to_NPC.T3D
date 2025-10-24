@@ -1,0 +1,153 @@
+Begin Object Class=/Script/IKRig.IKRetargeter Name="RTG_Pedestrian_to_NPC" ExportPath="/Script/IKRig.IKRetargeter'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC'"
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_9" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_9'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_8" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_8'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_7" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_7'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_6" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_6'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_5" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_5'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_4" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_4'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_3" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_3'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_2" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_2'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_18" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_18'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_17" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_17'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_16" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_16'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_15" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_15'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_14" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_14'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_13" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_13'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_12" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_12'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_11" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_11'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_10" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_10'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_1" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_1'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetChainSettings Name="RetargetChainSettings_0" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_0'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetOpStack Name="PostSettings" Archetype="/Script/IKRig.RetargetOpStack'/Script/IKRig.Default__IKRetargeter:PostSettings'" ExportPath="/Script/IKRig.RetargetOpStack'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:PostSettings'"
+   End Object
+   Begin Object Class=/Script/IKRig.IKRetargetGlobalSettings Name="GlobalSettings" Archetype="/Script/IKRig.IKRetargetGlobalSettings'/Script/IKRig.Default__IKRetargeter:GlobalSettings'" ExportPath="/Script/IKRig.IKRetargetGlobalSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:GlobalSettings'"
+   End Object
+   Begin Object Class=/Script/IKRig.RetargetRootSettings Name="RootSettings" Archetype="/Script/IKRig.RetargetRootSettings'/Script/IKRig.Default__IKRetargeter:RootSettings'" ExportPath="/Script/IKRig.RetargetRootSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RootSettings'"
+   End Object
+   Begin Object Name="RetargetChainSettings_9" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_9'"
+      SourceChain="LeftRing"
+      TargetChain="LeftRing"
+   End Object
+   Begin Object Name="RetargetChainSettings_8" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_8'"
+      SourceChain="LeftMiddle"
+      TargetChain="LeftMiddle"
+   End Object
+   Begin Object Name="RetargetChainSettings_7" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_7'"
+      SourceChain="LeftIndex"
+      TargetChain="LeftIndex"
+   End Object
+   Begin Object Name="RetargetChainSettings_6" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_6'"
+      SourceChain="LeftThumb"
+      TargetChain="LeftThumb"
+   End Object
+   Begin Object Name="RetargetChainSettings_5" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_5'"
+      SourceChain="LeftArm"
+      TargetChain="LeftArm"
+   End Object
+   Begin Object Name="RetargetChainSettings_4" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_4'"
+      SourceChain="LeftClavicle"
+      TargetChain="LeftClavicle"
+   End Object
+   Begin Object Name="RetargetChainSettings_3" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_3'"
+      SourceChain="LeftLeg"
+      TargetChain="LeftLeg"
+   End Object
+   Begin Object Name="RetargetChainSettings_2" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_2'"
+      SourceChain="Head"
+      TargetChain="Head"
+   End Object
+   Begin Object Name="RetargetChainSettings_18" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_18'"
+      SourceChain="RightPinky"
+      TargetChain="RightPinky"
+   End Object
+   Begin Object Name="RetargetChainSettings_17" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_17'"
+      SourceChain="RightRing"
+      TargetChain="RightRing"
+   End Object
+   Begin Object Name="RetargetChainSettings_16" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_16'"
+      SourceChain="RightMiddle"
+      TargetChain="RightMiddle"
+   End Object
+   Begin Object Name="RetargetChainSettings_15" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_15'"
+      SourceChain="RightIndex"
+      TargetChain="RightIndex"
+   End Object
+   Begin Object Name="RetargetChainSettings_14" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_14'"
+      SourceChain="RightThumb"
+      TargetChain="RightThumb"
+   End Object
+   Begin Object Name="RetargetChainSettings_13" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_13'"
+      SourceChain="RightArm"
+      TargetChain="RightArm"
+   End Object
+   Begin Object Name="RetargetChainSettings_12" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_12'"
+      SourceChain="RightClavicle"
+      TargetChain="RightClavicle"
+   End Object
+   Begin Object Name="RetargetChainSettings_11" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_11'"
+      SourceChain="RightLeg"
+      TargetChain="RightLeg"
+   End Object
+   Begin Object Name="RetargetChainSettings_10" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_10'"
+      SourceChain="LeftPinky"
+      TargetChain="LeftPinky"
+   End Object
+   Begin Object Name="RetargetChainSettings_1" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_1'"
+      SourceChain="Neck"
+      TargetChain="Neck"
+   End Object
+   Begin Object Name="RetargetChainSettings_0" ExportPath="/Script/IKRig.RetargetChainSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RetargetChainSettings_0'"
+      SourceChain="Spine"
+      TargetChain="Spine"
+   End Object
+   Begin Object Name="PostSettings" ExportPath="/Script/IKRig.RetargetOpStack'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:PostSettings'"
+   End Object
+   Begin Object Name="GlobalSettings" ExportPath="/Script/IKRig.IKRetargetGlobalSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:GlobalSettings'"
+   End Object
+   Begin Object Name="RootSettings" ExportPath="/Script/IKRig.RetargetRootSettings'/Game/Characters/FabCharacter/NPC/RTG_Pedestrian_to_NPC.RTG_Pedestrian_to_NPC:RootSettings'"
+   End Object
+   SourceIKRigAsset="/Game/Characters/CC/Pedestrian/Animations/IK_Pedestrian.IK_Pedestrian"
+   SourcePreviewMesh="/Game/Characters/CC/Pedestrian/Pedestrian.Pedestrian"
+   TargetIKRigAsset="/Game/Characters/FabCharacter/NPC/IK_NPC.IK_NPC"
+   TargetPreviewMesh="/Game/Characters/FabCharacter/NPC/NPC.NPC"
+   TargetMeshScale=0.985000
+   ChainSettings(0)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_0'"
+   ChainSettings(1)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_1'"
+   ChainSettings(2)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_2'"
+   ChainSettings(3)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_4'"
+   ChainSettings(4)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_5'"
+   ChainSettings(5)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_6'"
+   ChainSettings(6)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_7'"
+   ChainSettings(7)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_8'"
+   ChainSettings(8)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_9'"
+   ChainSettings(9)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_10'"
+   ChainSettings(10)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_12'"
+   ChainSettings(11)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_13'"
+   ChainSettings(12)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_14'"
+   ChainSettings(13)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_15'"
+   ChainSettings(14)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_16'"
+   ChainSettings(15)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_17'"
+   ChainSettings(16)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_18'"
+   ChainSettings(17)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_3'"
+   ChainSettings(18)="/Script/IKRig.RetargetChainSettings'RetargetChainSettings_11'"
+   TargetRetargetPoses=(("Default Pose", (BoneRotationOffsets=(("RightFoot", (X=-0.000000,Y=0.000000,Z=-0.000000,W=1.000000)),("RightLeg", (X=0.043896,Y=-0.055651,Z=-0.005800,W=0.997468)),("RightUpLeg", (X=-0.043578,Y=0.043578,Z=-0.001903,W=0.998097)),("LeftLeg", (X=0.076051,Y=0.020237,Z=0.135160,W=0.987693)),("LeftUpLeg", (X=-0.043577,Y=-0.043246,Z=0.005693,W=0.998097)),("RightForeArm", (X=0.043578,Y=0.043578,Z=0.001903,W=0.998097)),("RightArm", (X=0.087156,Y=0.000000,Z=-0.000000,W=0.996195)),("LeftForeArm", (X=0.043578,Y=-0.043578,Z=-0.001903,W=0.998097)),("LeftArm", (X=0.087156,Y=-0.000000,Z=0.000000,W=0.996195)),("Spine1", (X=0.000000,Y=-0.000000,Z=-0.043619,W=0.999048))))))
+End Object
